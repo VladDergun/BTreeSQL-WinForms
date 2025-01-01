@@ -133,6 +133,7 @@ namespace DbForm
             this.IdColumn.MinimumWidth = 8;
             this.IdColumn.Name = "IdColumn";
             this.IdColumn.Width = 200;
+            this.IdColumn.ReadOnly = true;
             // 
             // NameColumn
             // 
